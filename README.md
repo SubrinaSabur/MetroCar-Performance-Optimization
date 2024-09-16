@@ -18,3 +18,5 @@ Ride cancellations were highly correlated with peak hours, where almost 42% of d
 Average ratings suggest room for improving the user experience, with an average rating of 3.06.
 # Google Colab Notebook
 Access the Google Colab notebook for the MetroCar project [here](https://colab.research.google.com/drive/1hZeW2LcupQ9q59qu2ZuW9LDuttv0Halc?usp=sharing)
+# Group Presentation Video
+Watch the project presentation video [here](https://drive.google.com/drive/folders/1ZemfnDRmdcwtDbDXQ_817pJv1XqliXVU)

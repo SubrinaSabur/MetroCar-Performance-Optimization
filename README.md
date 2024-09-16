@@ -21,6 +21,6 @@ Access the Google Colab notebook for the MetroCar project [here](https://colab.r
 # Group Presentation Video
 Watch the project presentation video [here](https://drive.google.com/drive/folders/1ZemfnDRmdcwtDbDXQ_817pJv1XqliXVU)
 # Recommendations
-Improve Peak Hour Coverage: Increase driver availability during peak hours to reduce ride cancellations.
-Optimize the Request Process: Reduce average waiting time by optimizing the algorithm for matching riders and drivers.
-User Experience Improvements: Implement features such as real-time updates and better communication to enhance user satisfaction.
+* Improve Peak Hour Coverage: Increase driver availability during peak hours to reduce ride cancellations.
+* Optimize the Request Process: Reduce average waiting time by optimizing the algorithm for matching riders and drivers.
+* User Experience Improvements: Implement features such as real-time updates and better communication to enhance user satisfaction.
